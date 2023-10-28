@@ -154,8 +154,8 @@ ul {
     border: 1px solid #978c8c;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 1200px;
+    max-height: 1200px;
     text-align: center;
     border-radius: 10px;
     margin: 0 auto;
@@ -232,6 +232,7 @@ ul {
 .paragraph {
     border-radius: 25px;
     background-color: rgba(183, 190, 227, 0.8);
+    font-weight: bold;
     
 
 }
